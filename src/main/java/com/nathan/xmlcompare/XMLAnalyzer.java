@@ -1,10 +1,9 @@
-package com.boomi.xmlengine.compare;
+package com.nathan.xmlcompare;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.StringWriter;
-import java.net.URL;
 
 import javax.xml.transform.OutputKeys;
 import javax.xml.transform.Transformer;
